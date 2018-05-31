@@ -1,0 +1,28 @@
+*{
+    text-align : center;
+    margin: 0 auto;
+    
+}
+
+body {
+    background-color: #326273;
+    color: #fff;
+    font-size: 6em;
+    font-family: 'Kavivanar', cursive;
+    text-align: center
+}
+
+img {
+    width: 39%;
+    border: 8px solid #E39774;
+    
+}
+
+header {
+    font-size: 1em;
+    color: #EEEEEE;
+    font-family: 'Kavivanar', cursive;
+}
+p {
+    
+}
